@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "core-6-api-console-client": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
